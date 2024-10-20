@@ -1,4 +1,4 @@
-                                                            👋 HI, I’M KHOA
+                                                        👋 HI, I’M KHOA
 - 👀 I’m interested in Software engineer
 - 🌱 I’m currently learning Computer Science in HCMUT
 - 📫 How to reach me tkhoa06082005@gmail.com or khoa.trank685@hcmut.edu.vn
